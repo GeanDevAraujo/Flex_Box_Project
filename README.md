@@ -1,4 +1,4 @@
-# Flex_Box_Project
+# Welcome to Flex_Box_Project (Bem Vindo ao Flex_Box_Project):sunglasses:
 ## Goal :dart:
   It is one Project about Flex_Box based on CSS fundaments. The goal is to make a landing page using the flex_box which is the layout model for the web.
   
